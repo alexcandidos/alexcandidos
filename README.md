@@ -5,7 +5,7 @@
 - 👨‍💻 I've +8 years of experience with software testing (6 with mobile and 2 with web).
 - ⚡ I'm currently working with Java and Selenium Webdriver.
 - 🌱 I’m currently learning Cypress.
-
+---
 ### 📫 Get in touch
 - LinkedIn: [@alex-candido](https://www.linkedin.com/in/alex-candido/)
 - E-mail: alexcandido10@gmail.com

@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-- 🔭 I’m currently working at [Liferay](https://www.liferay.com/) Latam as Senior Test Engineer in Agile teams.
+- 🔭 I’m currently working at [Liferay](https://www.liferay.com/) Latam as QA Lead in the Engineering departament.
 - 📚 I've a master degree in Computer Science at [CIn/UFPE](https://portal.cin.ufpe.br/) - [FREVoz - A Framework for Automation of Voice Testing](https://repositorio.ufpe.br/handle/123456789/26695).
 - 👨‍💻 I've 9+ years of experience with software testing (6 with mobile and 3 with web).
 - ⚡ I'm currently working with Java and Selenium Webdriver.
